@@ -1,0 +1,37 @@
+Pag.1
+ServiceNow Basics Objectives
+In this module, you will learn to:
+
+- Obtain and log into a Personal Developer Instance (PDI)
+- Identify the components of the ServiceNow user interface
+- Open modules using the Application Navigator
+- Use lists to open records for editing
+- Use filters to display a subset of a table's records
+- Open and use forms to create and edit records
+
+Pag.2
+Title: Personal Developer Instances
+
+ServiceNow offers free, full-featured Personal Developer Instances (PDI) to registered users who want to 
+develop applications on the ServiceNow platform or improve their skills with ServiceNow. Members of the 
+ServiceNow Developer Program can use their PDI as long as there is activity on the instance.
+
+Sub Title: Obtaining a Personal Developer Instance
+
+Obtaining a personal developer instance is fast and easy.
+
+1. Sign in to the ServiceNow Developer Site.
+2. In the header, click the Request Instance button.
+    Screenshot showing the Request Instance button on the Developer Site header.
+3. Select a ServiceNow release for the instance.
+4. Click the Request button.
+5. When the instance is ready, the Your instance is ready! dialog provides the URL and admin login 
+details for the instance. Copy the Current Password to the clipboard.
+6. Click the Open Instance button to open the instance in a new browser tab.
+7. When prompted, change the admin password. Passwords must be at least 8 characters long, contain 
+a digit, an uppercase letter, and a lowercase letter.
+
+For more information about your PDI, refer to the Personal Developer Instance Guide.
+
+Pag.3
+
